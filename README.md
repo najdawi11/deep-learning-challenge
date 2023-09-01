@@ -6,7 +6,9 @@ Overview of the Analysis:
 
 The purpose of this analysis is to develop a deep learning neural network model that can predict whether organizations funded by Alphabet Soup Charity will be successful based on various features. The model's goal is to accurately classify whether an organization's funding request should be approved or not, thus optimizing the allocation of resources and maximizing the impact of the charity's efforts.
 
+
 Results:
+
 
 Data Preprocessing:
 
